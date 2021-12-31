@@ -1,16 +1,15 @@
 # flutter_dynamic_localization
 
-A new Flutter project.
+- Example of Flutter dynamic localization
 
-## Getting Started
+### What's .arb file ?
 
-This project is a starting point for a Flutter application.
+ARB is google's format for localization, it is used in the web and in flutter framework.
 
-A few resources to get you started if this is your first Flutter project:
+- [https://github.com/google/app-resource-bundle/wiki/ApplicationResourceBundleSpecification](https://github.com/google/app-resource-bundle/wiki/ApplicationResourceBundleSpecification) 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [https://docs.flutter.dev/development/accessibility-and-localization/internationalization](https://docs.flutter.dev/development/accessibility-and-localization/internationalization)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+
+<img src="./screenshot/flutter_localization.png" width="300"/>

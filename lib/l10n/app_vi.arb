@@ -1,0 +1,13 @@
+{
+    "language": "Tiếng Việt",
+    "hello": "Chào {username}",
+    "@hello": {
+        "description": "Message hello vi with params user name",
+        "placeholders": {
+            "username": {
+                "type": "String",
+                "example": "John"
+            }
+        }
+    }
+}

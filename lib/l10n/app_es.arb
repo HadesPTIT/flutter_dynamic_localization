@@ -1,0 +1,13 @@
+{
+    "language": "Español",
+    "hello": "Hola {username}",
+    "@hello": {
+        "description": "Message hello es with params user name",
+        "placeholders": {
+            "username": {
+                "type": "String",
+                "example": "John"
+            }
+        }
+    }
+}
